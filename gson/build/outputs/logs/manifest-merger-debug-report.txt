@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+	package
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:2:5-19
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:1-2:22
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		ADDED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml
+		INJECTED from D:\as_workspace2\MyRetrofit\gson\src\main\AndroidManifest.xml

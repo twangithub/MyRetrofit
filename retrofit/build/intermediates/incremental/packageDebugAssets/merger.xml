@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\as_workspace2\MyRetrofit\retrofit\src\main\assets"/><source path="D:\as_workspace2\MyRetrofit\retrofit\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\as_workspace2\MyRetrofit\retrofit\src\debug\assets"/></dataSet></merger>
